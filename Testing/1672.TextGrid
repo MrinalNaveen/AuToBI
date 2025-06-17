@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 6.33
+tiers? <exists>
+size = 3
+item []:
+    item []:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 6.33
+        intervals: size = 19
+        intervals [1]:
+            xmin = 0
+            xmax = 0.01
+            text = "I"
+        intervals [2]:
+            xmin = 0.2
+            xmax = 1.93
+            text = "CAN"
+        intervals [3]:
+            xmin = 2.2
+            xmax = 2.34
+            text = "NEVER"
+        intervals [4]:
+            xmin = 2.51
+            xmax = 3.22
+            text = "UNDERSTAND"
+        intervals [5]:
+            xmin = 3.29
+            xmax = 3.6
+            text = "THAT"
+        intervals [6]:
+            xmin = 3.82
+            xmax = 4.03
+            text = "IF"
+        intervals [7]:
+            xmin = 4.13
+            xmax = 4.26
+            text = "THE"
+        intervals [8]:
+            xmin = 4.38
+            xmax = 4.66
+            text = "CHEQUE"
+        intervals [9]:
+            xmin = 4.82
+            xmax = 4.95
+            text = "WAS"
+        intervals [10]:
+            xmin = 4.95
+            xmax = 4.98
+            text = "NO"
+        intervals [11]:
+            xmin = 5.02
+            xmax = 5.05
+            text = "GOOD"
+        intervals [12]:
+            xmin = 5.05
+            xmax = 5.07
+            text = "I'D"
+        intervals [13]:
+            xmin = 5.2
+            xmax = 5.36
+            text = "PUT"
+        intervals [14]:
+            xmin = 5.36
+            xmax = 5.45
+            text = "A"
+        intervals [15]:
+            xmin = 5.45
+            xmax = 5.49
+            text = "FALSE"
+        intervals [16]:
+            xmin = 5.49
+            xmax = 5.63
+            text = "NAME"
+        intervals [17]:
+            xmin = 5.64
+            xmax = 5.67
+            text = "AND"
+        intervals [18]:
+            xmin = 5.76
+            xmax = 6.28
+            text = "ADDRESS"
+        intervals [19]:
+            xmin = 6.28
+            xmax = 6.33
+            text = "WOULDN'T"
