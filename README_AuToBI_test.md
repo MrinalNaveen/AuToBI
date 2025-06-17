@@ -131,13 +131,6 @@ your-project/
 │       └── 1677.csv
 ```
 
----
-
-## 👤 Author
-
-This README was auto-generated to help you quickly understand and run your prosody analysis workflow using `autobi_py`. For improvements, feedback, or issues, feel free to contribute or raise an issue.
-
----
 
 ## 📄 License
 
