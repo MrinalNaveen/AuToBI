@@ -1,0 +1,13 @@
+{
+    "input_wav": "C:/Users/Dell/EG/autobi_py-1/moon.wav",
+    "input_grid": "C:/Users/Dell/EG/autobi_py-1/moon.TextGrid",
+    "output_dir": "C:/Users/Dell/EG/autobi_py-1/prosodic_analysis",
+    "output_file": "moon_analysis.csv",
+    "feature_sets": {
+        "Pitch Accent Detection": "PitchAccentDetectionFeatureSet",
+        "Pitch Accent Classification": "PitchAccentClassificationFeatureSet",
+        "Intonational Phrase Boundary Detection": "IntonationalPhraseBoundaryDetectionFeatureSet",
+        "Intermediate Phrase Boundary Detection": "IntermediatePhraseBoundaryDetectionFeatureSet",
+        "Phrase Accent Classification": "PhraseAccentClassificationFeatureSet"
+    }
+} 

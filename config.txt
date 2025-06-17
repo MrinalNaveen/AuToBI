@@ -1,0 +1,10 @@
+# Input files
+input_wav=C:/Users/Dell/EG/autobi_py-1/moon.wav
+input_grid=C:/Users/Dell/EG/autobi_py-1/moon.TextGrid
+
+# Output settings
+output_dir=C:/Users/Dell/EG/autobi_py-1/prosodic_analysis
+output_file=moon_analysis.csv
+
+# Feature sets to analyze
+feature_sets=PitchAccentDetectionFeatureSet,PitchAccentClassificationFeatureSet,IntonationalPhraseBoundaryDetectionFeatureSet,IntermediatePhraseBoundaryDetectionFeatureSet,PhraseAccentClassificationFeatureSet 
